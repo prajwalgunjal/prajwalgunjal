@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal Dadasaheb Gunjal</h1>
+<h1 align="center">Hi 👋, I'm <b>Prajwal Dadasaheb Gunjal</b></h1>
 <h3 align="center">A passionate FullStack developer from India, Maharashtra, Pune</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
