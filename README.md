@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <b>Prajwal Dadasaheb Gunjal</b></h1>
 <h3 align="center">A passionate FullStack developer from India, Maharashtra, Pune</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <div></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalgunjal&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalgunjal" /> </p>
 <div></div>
