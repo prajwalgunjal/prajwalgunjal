@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prajwalgunjal](https://github.com/prajwalgunjal)
 
-- 💬 Ask me about **HTML,CSS,JAVA,CPP,Python,JS,SQL**
+- 💬 Ask me about **HTML,CSS,JAVA,CPP,Python,JS,SQL,C#**
 
 - 📫 How to reach me **Prajwalgunjal8@gmail.com**
 
