@@ -6,13 +6,13 @@
 <div></div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalgunjal" alt="prajwalgunjal" /></a> </p>
 
-- 🔭 I’m currently working on **Java Full Stack**
+- 🔭 I’m currently working on **.net Full Stack**
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Entity Framework, MicroServices and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prajwalgunjal](https://github.com/prajwalgunjal)
 
-- 💬 Ask me about **HTML,CSS,JAVA,CPP,Python,JS,SQL,C#**
+- 💬 Ask me about **HTML,CSS,JAVA,CPP,Python,JS,SQL,C#,.net,MSSQL,ANgular**
 
 - 📫 How to reach me **Prajwalgunjal8@gmail.com**
 
